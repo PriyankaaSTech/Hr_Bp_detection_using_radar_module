@@ -1,5 +1,5 @@
- HLK-LD6002 Radar Vital-Sign Monitor
-Non-contact Heart Rate & Respiratory Rate Detection — ESP32 + 60 GHz mmWave Radar
+# HLK-LD6002 Radar Vital-Sign Monitor
+**Non-contact Heart Rate & Respiratory Rate Detection — ESP32 + 60 GHz mmWave Radar**
 
 ---
 
@@ -17,7 +17,7 @@ This project implements a robust, 8-stage DSP pipeline on an ESP32 that reads ra
 | Radar Sensor | HLK-LD6002 (60 GHz FMCW mmWave) |
 | Power | 3.3V LDO >= 600 mA |
 
-Wiring:
+**Wiring:**
 
 | LD6002 Pin | Signal | ESP32 Pin |
 |------------|--------|-----------|
